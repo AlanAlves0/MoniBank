@@ -159,4 +159,9 @@
     .container {
         margin: 2em;
     }
+
+    .banner__titulo{
+        font-size: 20px;
+        width: 50%;
+    }
 }

@@ -144,4 +144,10 @@
     .conta__titulo {
         padding: 1em 0;
     }
+    .banner__titulo {
+        width: 100%;
+        font-size: 20px;
+        text-align: center;
+        margin: 0;
+    }
 }
