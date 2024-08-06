@@ -1,13 +1,12 @@
-<p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
+<h1>MoniBank</h1>
 
-<hr>
-
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
-
-## Tecnologias utilizadas durante o curso
-* JavaScript
-
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
+<h2>Sobre</h2>
+ <p>Formulário de criação de contas para o banco virtual MoniBank.</p>
+ <a href = https://moni-bank-sable.vercel.app>Clique aqui para acessar o projeto</a>
+<br><br><br> 
+##Tecnologias
+<div>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
